@@ -32,5 +32,5 @@
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/invision-logo.png"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral)](https://github.com/AnanyaThukral/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral)](https://github.com/AnanyaThukral/github-readme-stats?theme=dark)
 
