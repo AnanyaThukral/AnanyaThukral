@@ -7,6 +7,7 @@
 - 📫 How to reach me: ananya@uoguelph.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉
+- 🎯 My 2021 Goal is to code daily, bring my passion project to reality and keep learning. 
 
 ### 🛠️ Languages and Tools:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code> 
