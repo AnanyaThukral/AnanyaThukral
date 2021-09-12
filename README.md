@@ -30,3 +30,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"></code>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/invision-logo.png"></code>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral)](https://github.com/AnanyaThukral/github-readme-stats)
+
