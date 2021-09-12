@@ -9,8 +9,9 @@
 - ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉
 - 🎯 My 2021 Goal is to code daily, bring my passion project to reality and keep learning. 
 
-### Let's talk:
+### Let's Connect:
 [<img align="left" height ="22px" src="https://toppng.com/uploads/preview/linkedin-square-logo-comments-linkedin-icon-black-11563087424lpctodfamj.png"/>](https://www.linkedin.com/in/ananya-thukral-576301178/)
+[<img align="left" height ="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/>](https://discord.com/channels/7554)
 
 <br/>
 
