@@ -5,10 +5,13 @@
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning React JS
 - 🏁 I've been learning UX/UI Design and advancing skills in Javascript this year.
-- 📫 How to reach me: ananya@uoguelph.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉
 - 🎯 My 2021 Goal is to code daily, bring my passion project to reality and keep learning. 
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### 🛠️ Languages and Tools:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code> 
