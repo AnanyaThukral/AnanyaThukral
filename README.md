@@ -33,5 +33,5 @@
 
 ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaThukral&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral)](https://github.com/AnanyaThukral/github-readme-stats?username=AnanyaThukral&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral&theme=dark&layout=compact)](https://github.com/AnanyaThukral/github-readme-stats)
 
