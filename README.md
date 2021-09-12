@@ -7,7 +7,8 @@
 - 🏁 I've been learning UX/UI Design and advancing skills in Javascript this year.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉
-- 🎯 My 2021 Goal is to code daily, bring my passion project to reality and keep learning. 
+- 🎯 My 2021 Goal is to code daily, bring my passion project to reality and keep learning.
+- 💬 You can reach out me at ananya@uoguelph.ca
 
 ### Let's Connect:
 [<img align="left" height ="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/ananya-thukral-576301178/)
