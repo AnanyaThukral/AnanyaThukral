@@ -31,14 +31,15 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"></code>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/invision-logo.png"></code>
 
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaThukral&count_private=true&show_icons=true&theme=dark)
+<!-- ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaThukral&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral&theme=dark&layout=compact)](https://github.com/AnanyaThukral/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral&theme=dark&layout=compact)](https://github.com/AnanyaThukral/github-readme-stats) -->
 
-<a href="https://github.com/AnanyaThukral/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral&theme=dark&layout=compact" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnanyaThukral&count_private=true&show_icons=true&theme=dark" />
 </a>
+<a href="https://github.com/AnanyaThukral/github-readme-stat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral&theme=dark&layout=compact" />
+</a>
+
 
