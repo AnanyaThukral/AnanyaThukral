@@ -9,6 +9,10 @@
 - ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉
 - 🎯 My 2021 Goal is to code daily, bring my passion project to reality and keep learning. 
 
+### Let's talk:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][website]
+[website]: https://codeSTACKr.com
+
 ### 🛠️ Languages and Tools:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code> 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code> 
