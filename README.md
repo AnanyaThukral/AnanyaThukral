@@ -2,8 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
-- 🔭 I’m currently working on **My Portfolio**
-- 🌱 I’m currently learning **React JS**
+- 🔭 I’m currently working on My Portfolio
+- 🌱 I’m currently learning React JS
+- 🏁 I've been learning UX/UI Design and advancing skills in Javascript this year.
 - 📫 How to reach me: ananya@uoguelph.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉
