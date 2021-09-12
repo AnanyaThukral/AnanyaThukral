@@ -14,7 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/429/72/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail.png"></code>
+<code><img height="20" src="https://mpng.subpng.com/20180411/wre/kisspng-mysql-database-web-development-computer-software-dolphin-5ace280ea31a78.1388980015234601106681.jpg"></code>
 
 ### 🛠️ Design Tools:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
