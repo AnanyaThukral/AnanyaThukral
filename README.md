@@ -35,3 +35,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral&theme=dark&layout=compact)](https://github.com/AnanyaThukral/github-readme-stats)
 
+<a href="https://github.com/AnanyaThukral/github-readme-stat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaThukral&theme=dark&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnanyaThukral&count_private=true&show_icons=true&theme=dark" />
+</a>
+
