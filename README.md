@@ -2,12 +2,11 @@
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 
-- 🔭 I’m currently working on My Portfolio
-- 🌱 I’m currently learning React JS
-- 🏁 I've been learning UX/UI Design and advancing skills in Javascript this year.
+- 🌱 I’m currently learning Flutter to build cross platform Apps.
+- 🏁 I've been reading about Lean UX and coducting HCI research in Lean UX to learn how organizations can transition their current development into a Lean UX approach. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉
-- 🎯 My 2021 Goal is to code daily, bring my passion project to reality and keep learning.
+- 🎯 My 2022 Goal is to code daily, learn more about the UX industry and it's implementation in the real world setting. 
 - 💬 You can reach out me at ananya@uoguelph.ca
 
 ### Let's Connect:
