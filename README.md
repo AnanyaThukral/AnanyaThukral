@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter to build cross platform Apps.
 - 🏁 I've been reading about Lean UX and coducting HCI research in Lean UX to learn how organizations can transition their current development into a Lean UX approach. 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉
+- ⚡ Fun fact: I sleep on a hard mattress to remind myself to hustle and not get comfortable in life. 😉 UPDATE: Friend got me a comfy mattress xd
 - 🎯 My 2022 Goal is to code daily, learn more about the UX industry and it's implementation in the real world setting. 
 - 💬 You can reach out to me at ananya@uoguelph.ca
 
