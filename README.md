@@ -2,7 +2,7 @@
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 
-- 🌱 I’m currently working on my javascript and React.js skills to create more quick User friendly websites. 
+- 🌱 I’m currently working on my javascript and React.js skills to create more fast, effecient and User friendly websites. 
 - 🏁 I've been reading about Lean UX and coducting HCI research in Lean UX to learn how organizations can transition their current development into a Lean UX approach. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Enough of fun, time to get some work done ;)
