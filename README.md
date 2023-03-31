@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Enough of fun, time to get some work done ;)
 - 🎯 My 2022 Goal is to code daily, learn more about the UX industry and it's implementation in the real world setting. 
-- 💬 You can reach out to me at ananya@uoguelph.ca
+- 💬 You can reach out to me at ananyathukral@outlook.com
 
 ### Let's Connect:
 [<img align="left" height ="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/ananya-thukral-576301178/)
