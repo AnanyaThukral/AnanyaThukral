@@ -6,7 +6,7 @@
 - 🏁 I've been reading about Lean UX and coducting HCI research in Lean UX to learn how organizations can transition their current development into a Lean UX approach. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Enough of fun, time to get some work done ;)
-- 🎯 My 2022 Goal is to code daily, learn more about the UX industry and it's implementation in the real world setting. 
+- 🎯 My 2023 Goal is to wrap up my UX portfolio which I am developing from scratch. Good luck to me!
 - 💬 You can reach out to me at ananyathukral@outlook.com
 
 ### Let's Connect:
